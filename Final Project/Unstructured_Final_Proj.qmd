@@ -1,0 +1,17 @@
+---
+title: "Unstructured Data Final Project"
+author: "Connor Toomey"
+format:
+  html:
+    toc: true
+    toc-location: left
+    self-contained: true
+jupyter: python3
+---
+
+## Introduction
+
+Hello and welcome to my final project for Unstuctured Data! In this project, I plan to analyze the Olympic Games Hockey tournaments from the 2026 Milan-Cortina Games. I plan to scrape the data from the official 
+```{python}
+
+```
